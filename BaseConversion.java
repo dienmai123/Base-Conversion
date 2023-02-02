@@ -1,6 +1,4 @@
 //Dien Mai
-//OCCC Spring 2023
-//Advanced Java
 // Base Conversion
 
 import java.util.Scanner; 
